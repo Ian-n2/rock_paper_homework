@@ -1,0 +1,17 @@
+body{
+  background-color: pink;
+background-image: url("pic2.jpg");
+background-repeat: no-repeat;
+background-position: center;
+width: 100px;
+height: 200px;
+margin-top: auto;
+}
+ h2{
+ text-align: center;}
+ h1 {
+   text-align: center;
+ }
+ p {
+   text-align: center;
+ }
